@@ -1,0 +1,1 @@
+{"version":2,"defects":{"CalculadoraTest::testSomar":7,"CalculadoraTest::testSumar1":7},"times":{"CalculadoraTest::testSomar":0.001,"CalculadoraTest::testSumar":0.001,"CalculadoraTest::testSumar1":0.003}}
