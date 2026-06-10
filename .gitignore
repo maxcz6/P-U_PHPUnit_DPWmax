@@ -1,0 +1,7 @@
+/vendor
+vendor 
+cache
+logs
+*.log
+*.cache
+*.tmp
